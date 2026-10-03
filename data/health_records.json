@@ -1,0 +1,23 @@
+{
+    "1": {
+        "health_record_id": 1,
+        "livestock_id": 1,
+        "health_status": "Healthy",
+        "treatment": "Routine health monitoring",
+        "record_date": "2026-09-25"
+    },
+    "2": {
+        "health_record_id": 2,
+        "livestock_id": 2,
+        "health_status": "Under Treatment",
+        "treatment": "Basic veterinary treatment",
+        "record_date": "2026-09-27"
+    },
+    "3": {
+        "health_record_id": 3,
+        "livestock_id": 3,
+        "health_status": "Recovered",
+        "treatment": "Recovery monitoring",
+        "record_date": "2026-09-29"
+    }
+}

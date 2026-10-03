@@ -1,0 +1,17 @@
+{
+    "1": {
+        "farmer_id": 1,
+        "name": "Mohamed Kamara",
+        "location": "Waterloo"
+    },
+    "2": {
+        "farmer_id": 2,
+        "name": "Mariama Sesay",
+        "location": "Makeni"
+    },
+    "3": {
+        "farmer_id": 3,
+        "name": "Abdul Rahman",
+        "location": "Bo"
+    }
+}

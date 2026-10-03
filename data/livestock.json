@@ -1,0 +1,23 @@
+{
+    "1": {
+        "livestock_id": 1,
+        "farmer_id": 1,
+        "animal_type": "Cattle",
+        "breed": "N'Dama",
+        "gender": "Female"
+    },
+    "2": {
+        "livestock_id": 2,
+        "farmer_id": 2,
+        "animal_type": "Goat",
+        "breed": "West African Dwarf",
+        "gender": "Male"
+    },
+    "3": {
+        "livestock_id": 3,
+        "farmer_id": 3,
+        "animal_type": "Chicken",
+        "breed": "Local Breed",
+        "gender": "Female"
+    }
+}
