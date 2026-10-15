@@ -1,3 +1,4 @@
+<img width="539" height="365" alt="Screenshot 2026-10-13 081936" src="https://github.com/user-attachments/assets/2ee1acfe-3480-428a-9724-39a54a0e5672" />
 # Livestock Health & Tracking System
 
 A Python-based Livestock Health & Tracking System developed as an Object-Oriented Programming 1 assignment.
@@ -325,3 +326,8 @@ The application will display the main menu and wait for user input.
 This project is licensed under the MIT License.
 
 See the `LICENSE` file for details.
+<img width="539" height="365" alt="Screenshot 2026-10-13 081936" src="https://github.com/user-attachments/assets/a3c0c65e-1d08-4e60-a8c1-c701e761ac41" />
+<img width="533" height="261" alt="Screenshot 2026-10-13 081641" src="https://github.com/user-attachments/assets/e8e591f4-8113-40b3-ad23-e3bb6e15a87d" />
+<img width="542" height="258" alt="Screenshot 2026-10-13 080700" src="https://github.com/user-attachments/assets/772c7dd4-35d9-4e74-a9cd-53ded2d9afef" />
+<img width="543" height="249" alt="Screenshot 2026-10-13 081457" src="https://github.com/user-attachments/assets/2c0d31ee-98e9-42ca-ac30-fc5f0b8d6482" />
+
